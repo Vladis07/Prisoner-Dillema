@@ -1,5 +1,5 @@
 # Prisoner-Dillema
-markdown_content = """
+
 # Algorithm: Selfish
 
 ## Description
