@@ -24,8 +24,4 @@ to avoid mutual defection spirals:
 - `1` for cooperation
 """
 
-# Save to file
-with open("selfish_algorithm.md", "w") as file:
-    file.write(markdown_content.strip())
 
-print("Markdown file 'selfish_algorithm.md' created successfully.")
